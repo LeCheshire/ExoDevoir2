@@ -1,0 +1,14 @@
+.center{
+    text-align: center;
+}
+table{
+    border: 5mm solid rgb(59, 59, 63);
+}
+td{
+    padding: 50px;
+}
+.bordertable{
+    padding:30px;
+    border: 4px double black;
+}
+
